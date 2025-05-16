@@ -1,0 +1,2 @@
+#  AirBnB Clone - Web Static #
+This repository contains he front-end implementation of the AirBnB clone project, focusing exclusively on creating a static web interface using HTML and CSS (no JavaScript or external data sources). The project aims to develop simple HTML static pages with fake content following a consistent style guide. To get started, clone the repository and open the HTML files in your browser. The codebase is organized with HTML/CSS files in the /web_static directory, stylesheets in /styles, and images in /images.
